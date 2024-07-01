@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **davidc0dex/davidc0dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Read about me:
@@ -10,4 +10,3 @@ Read about me:
 - 💬 Ask me about __new projects / collabs__
 - 📫 How to reach me: Add me on Discord: *twizzysef* / message me on Instagram : *.davido14*
 - 😄 Pronouns: David
--->
