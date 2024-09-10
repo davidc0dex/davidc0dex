@@ -9,5 +9,5 @@ Read about me:
 - 🌱 I’m currently learning **MySQL**
 - 💬 Ask me about __new projects / collabs__
 - 📫 How to reach me: Add me on Discord: *twizzysef*
-- 🥇 I have knowledge in HTML/CSS/JS(jQuery)
+- 🥇 I have knowledge in HTML/CSS/JS(jQuery)/GIT
 - 😄 Pronouns: David
