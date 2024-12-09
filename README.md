@@ -6,8 +6,8 @@
 Read about me:
 
 - 🔭 I’m currently working on **Volt Studios**
-- 🌱 I’m currently learning **MySQL** and **LUA**
+- 🌱 I’m currently learning **MySQL** and **NextJS**
 - 💬 Ask me about __new projects / collabs__
-- 📫 How to reach me: Add me on Discord: *twizzysef*
-- 🥇 I have knowledge in HTML/CSS/JS(jQuery)/GIT
+- 📫 How to reach me: Add me on Discord: *davido.regele*
+- 🥇 I have knowledge in HTML/CSS/JS(jQuery)/GIT/TailWind
 - 😄 Pronouns: David
